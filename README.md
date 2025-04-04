@@ -1,5 +1,5 @@
 # faithmuendi
-“My cybersecurity journey and project portfolio”
+“My cybersecurity journey and project portfolio
 
 # 👩🏽‍💻 Faith Muendi
 
