@@ -40,11 +40,11 @@ Hi there! I'm Faith, a passionate cybersecurity learner with real-world labs and
 
 ---
 
-## 📜 Certifications
+## Certifications 🎓
 
-- ✅ Certified Ethical Hacker (CEH)
-- ✅ Certified SOC Analyst (CSA)
-- 🏁 Red Team & Bug Bounty in progress...
+[![CEH Badge](https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-brightgreen)](https://www.eccouncil.org/)
+[![CSA Badge](https://img.shields.io/badge/CSA-SOC%20Certified%20Analyst-brightblue)](https://www.eccouncil.org/)
+
 
 ---
 
